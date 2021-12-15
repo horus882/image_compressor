@@ -1,0 +1,24 @@
+{
+  "name": "image_compressor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horus882/image_compressor.git"
+  },
+  "author": "Brent Hsieh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horus882/image_compressor/issues"
+  },
+  "homepage": "https://github.com/horus882/image_compressor#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-changed": "^4.0.3",
+    "gulp-imagemin": "^7.1.0"
+  }
+}
